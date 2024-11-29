@@ -8,7 +8,9 @@ const registerIds = [
   "https://facility-jtp-adsys.zq.toyota.co.jp/api/v1/facilities/registers?contlloer=104&no=95",
   "https://facility-jtp-adsys.zq.toyota.co.jp/api/v1/facilities/registers?contlloer=106&no=151",
   "https://facility-jtp-adsys.zq.toyota.co.jp/api/v1/facilities/registers?contlloer=103&no=67",
-  "https://facility-jtp-adsys.zq.toyota.co.jp/api/v1/facilities/registers?contlloer=108&no=207"
+  "https://facility-jtp-adsys.zq.toyota.co.jp/api/v1/facilities/registers?contlloer=108&no=207",
+  "https://facility-jtp-adsys.zq.toyota.co.jp/api/v1/facilities/registers?contlloer=101&no=8",
+  "https://facility-jtp-adsys.zq.toyota.co.jp/api/v1/facilities/registers?contlloer=101&no=9"
 ];
 
 async function registerValues() {
