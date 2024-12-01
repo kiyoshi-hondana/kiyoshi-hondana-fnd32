@@ -185,10 +185,6 @@ body {
   justify-content: center;
 }
 
-.active {
-  background-color: #29f900;
-}
-
 #arrow-1 {
   width: 35px;
   transform: rotate(35deg);
