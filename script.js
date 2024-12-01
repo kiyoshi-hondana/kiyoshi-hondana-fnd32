@@ -26,9 +26,9 @@ async function registerValues() {
     const element = document.getElementById(id);
     if (element) {
       if (value === 1) {
-        element.classList.add("active");
+        element.style.backgroundColor = "#29f900";
       } else {
-        element.classList.remove("active");
+        element.style.backgroundColor = "#f8f8f8";
       }
     }
   }
